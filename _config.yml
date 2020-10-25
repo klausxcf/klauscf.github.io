@@ -9,11 +9,7 @@ name: klauscf
 description: 努力向前，成长可见！
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-<<<<<<< HEAD
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/logo1.jpg
-=======
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/logo-wufan.png
->>>>>>> cffcc39cb1c6fd74670d5d0e82bb031c7b83b07b
+avatar: https://github.com/klauscf/klauscf.github.io/tree/main/images/logo1.jpg
 
 #
 # Flags below are optional
